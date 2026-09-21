@@ -2,6 +2,6 @@ ansible-navigator:
   execution-environment:
     container-engine: podman
     enabled: true
-    image: utility.lab.example.com:5000/ansible-automation-platform-26/ee-supported-rhel8:latest
+    image: utility.lab.example.com:5000/ansible-automation-platform-26/ee-supported-rhel9:latest
     pull:
       policy: missing

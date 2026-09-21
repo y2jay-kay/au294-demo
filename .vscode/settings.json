@@ -1,0 +1,5 @@
+{
+    "ansible.executionEnvironment.containerEngine": "podman",
+    "ansible.executionEnvironment.image": "utility.lab.example.com:5000/ansible-automation-platform-26/ee-supported-rhel9:latest",
+    "ansible.executionEnvironment.pull.arguments": "--tls-verify=false"
+}
